@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello... My name is Rashid Khalil.
 
-<!--
-**rashidkhalil9182/rashidkhalil9182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Web Developer and Software Engineer. I am a problem solver passionate about building solutions using human creativity and technology. 
+I am constantly learning better ways to write maintainable and scalable code as well as improve my soft skills. 
 
-Here are some ideas to get you started:
+### Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are technologies I have used as a Developer
+
+- Frontend: HTML, CSS, JavaScript, Angular,Typescript
+- Backend: PostgreSQL, MySQL, Express, NodeJs, .Net Core, Strong Loop Back
+
+### Soft Skills
+
+- Problem solving
+- Dedicated Learner
+- Effective Communicator
+
+### Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/rashid-khalil-283849126)
