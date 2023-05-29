@@ -26,4 +26,4 @@ These are technologies I have used as a Developer
 - [LinkedIn](https://www.linkedin.com/in/rashid-khalil-283849126)
 
 
-![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidkhalil9182&theme=dark&show_icons=true)
