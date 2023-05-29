@@ -24,3 +24,6 @@ These are technologies I have used as a Developer
 ### Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/rashid-khalil-283849126)
+
+
+![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
